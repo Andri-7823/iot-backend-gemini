@@ -71,3 +71,4 @@ app.get('/', (req, res) => {
 
 // PENTING: Export aplikasi Anda agar Vercel bisa menjalankannya
 module.exports = app;
+// Update paksa untuk Vercel
