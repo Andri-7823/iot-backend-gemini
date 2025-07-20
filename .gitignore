@@ -1,0 +1,5 @@
+# Abaikan folder dependensi
+node_modules/
+
+# Abaikan file kunci rahasia
+serviceAccountKey.json
